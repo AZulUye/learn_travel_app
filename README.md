@@ -1,16 +1,9 @@
 # learn_travel_app
 
-A new Flutter project.
+## Belajar membuat aplikasi Travel
+Sumber belajar dari channel Youtube **[dbestech](https://www.youtube.com/@dbestech)**
 
-## Getting Started
+[Link video Travel App](https://www.youtube.com/watch?v=x4DydJKVvQk&t=4558s)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Pengembangan lebih lanjut secara pribadi akan dilakukan secara berkala sebagai pembelajaran dan menambah pengalaman dalam pemrograman Flutter**
